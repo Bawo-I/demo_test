@@ -1,0 +1,2 @@
+This is a test text document, created for the purposes of experimenting with Git directy from the bash terminal
+
